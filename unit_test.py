@@ -59,5 +59,5 @@ class flipkart_order_placing(unittest.TestCase):
 
 if __name__ == "__main__":
     #unittest.main()
-    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output="D:\pythonProject\SeleniumTest\practice\Test_Reports"))
+    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output="D:/pythonProject/SeleniumTest/practice/Test_Reports/test_report.html"))
 
